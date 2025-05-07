@@ -6,7 +6,10 @@ I’m interested in Data Science, Artificial Intelligence, and Generative AI.
 Currently, I’m learning advanced Python, Java, and front-end web development.  
 I’m open to collaborating on AI-based projects, data analysis tools, and creative coding solutions.  
 
-You can reach me at: radish.thecodezilla@gmail.com  
+You can reach me at: 
+- 📧 Email: [radishmafernando@gmail.com]
+- 🔗 LinkedIn: [www.linkedin.com/in/radishma-fernando]
+- 💻 GitHub: [https://github.com/RadishTheCodezilla]
 
 Pronouns: She/Her  
 
