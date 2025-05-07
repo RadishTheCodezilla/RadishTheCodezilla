@@ -1,6 +1,6 @@
 Welcome to my GitHub profile. I'm an undergraduate student passionate about Data Science, Artificial Intelligence, and Generative AI. I enjoy exploring how technology can be used to solve real-world problems and enhance everyday experiences through intelligent systems.
 
-Hi, I’m @RadishTheCodezilla
+👋Hi, I’m @RadishTheCodezilla
 
 I’m interested in Data Science, Artificial Intelligence, and Generative AI.  
 Currently, I’m learning advanced Python, Java, and front-end web development.  
@@ -13,7 +13,7 @@ You can reach me at:
 
 Pronouns: She/Her  
 
-Fun fact: I enjoy watching BBC Horizon documentaries and often practise explaining complex topics in English to improve my fluency.
+⚡Fun fact: I enjoy watching BBC Horizon documentaries and often practise explaining complex topics in English to improve my fluency.
 
 
 <!---
