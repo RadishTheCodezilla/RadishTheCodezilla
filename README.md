@@ -9,7 +9,6 @@ I’m open to collaborating on AI-based projects, data analysis tools, and creat
 You can reach me at: 
 - 📧 Email: [radishmafernando@gmail.com]
 - 🔗 LinkedIn: [www.linkedin.com/in/radishma-fernando]
-- 💻 GitHub: [https://github.com/RadishTheCodezilla]
 
 Pronouns: She/Her  
 
